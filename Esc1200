@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am esc1200 on github.
+  * I am ekechic (https://keybase.io/ekechic) on keybase.
+  * I have a public key ASBqFY8HOpfBcdJyNbXT2e4B_lwIxLnv6Rd44w8M8jJG6wo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206a158f073a97c171d27235b5d3d9ee01fe5c08c4b9efe91778e30f0cf23246eb0a",
+      "host": "keybase.io",
+      "kid": "01206a158f073a97c171d27235b5d3d9ee01fe5c08c4b9efe91778e30f0cf23246eb0a",
+      "uid": "f28b4ca40f91a2a555d53ac2de4eee19",
+      "username": "ekechic"
+    },
+    "merkle_root": {
+      "ctime": 1568196858,
+      "hash": "16045bccfa98202ee055c603925b122c31eb0811aca082f1409abae8bba28d145454dd0794c07ce2acd3f1e61ad8313b2466472d0f439205211770ec4e4e7610",
+      "hash_meta": "35fe7e1c0a6f54ca9f1c1616ac384105b937ac171e98e86aa6c16e9966d31b01",
+      "seqno": 6670349
+    },
+    "service": {
+      "entropy": "qfoGjaFgMSQKixYJUUTVZrVC",
+      "name": "github",
+      "username": "esc1200"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568196866,
+  "expire_in": 504576000,
+  "prev": "c9b06179d79867e952326a25130839cfd7cfa47bf5b68103db0908ada4623fd5",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASBqFY8HOpfBcdJyNbXT2e4B_lwIxLnv6Rd44w8M8jJG6wo](https://keybase.io/ekechic), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgahWPBzqXwXHScjW109nuAf5cCMS57+kXeOMPDPIyRusKp3BheWxvYWTESpcCBsQgybBhedeYZ+lSMmolEwg5z9fPpHv1toED2wkIraRiP9XEICv7RZ16Iy2Yd3JKVP6F4vQpFJ1gB/Q62ktXl1VYfcGoAgHCo3NpZ8RAEy3SD6uwsN0Iw1yEFZGrnSxbCSmKFh3xF5MecAQ7f9gjlQI6Db76n2jT5T5ItiTKy2gqU50vjEFjbLxXUvQcA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDILqw4bUvM7j7n+Yw7ygSMpF7J9IWmMXLUvF9pBbLEHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/ekechic
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id ekechic
+```
